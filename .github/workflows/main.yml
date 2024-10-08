@@ -1,4 +1,3 @@
-
 name: Build OnePlus 12R A14 Kernel
 on:
   workflow_dispatch:
